@@ -1,0 +1,3 @@
+com\test\mapreduce\WordCountDriver.class
+com\test\mapreduce\WordCountReducer.class
+com\test\mapreduce\WordCountMapper.class
